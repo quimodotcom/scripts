@@ -8,7 +8,7 @@ Copy and paste the following command in your terminal. This will install the
 client using the recommended defaults.
 
 ```sh
-curl -sSL https://install.stream-pi.com/client/raspberry-pi | bash
+curl -sSL https://raw.githubusercontent.com/quimodotcom/scripts/master/client-install-raspberry-pi.sh | bash
 ```
 
 ### Configuration Options
